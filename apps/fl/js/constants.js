@@ -95,8 +95,7 @@ const SupportedAudioTypes = Object.freeze({
   'audio/mpeg': true,
   'audio/mp4': true,
   'audio/opus': true,
-  'audio/ogg': true,
-  'audio/amr': true
+  'audio/ogg': true
 });
 
 // If we see one of the mime types on the left convert it
